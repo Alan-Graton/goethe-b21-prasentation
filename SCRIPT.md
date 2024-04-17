@@ -10,7 +10,7 @@ Hallo leute! Wie gehts?
 
 Ich hoffe alle sind gut.
 
-Heute sprechen wir über Zug und Flugreisen.
+Heute sprechen wir über Zug und Flugreisen, meine Persönlichen Erfahrungen, flugreisen in meinem Heimatland (Brasillien) und am ende, die Vor und Nachteile.
 
 ## Persönlichen Erfahrungen
 
@@ -19,14 +19,16 @@ aproveitar cada momento. Eu e minha irmã não pudermos ir porque ainda estávam
 
 ## Flugreisen in meinem Heimatland
 
-Aqui eu posso falar sobre as pessoas que saem do Brasil para poder trabalhar para outras empresas ou morar fora.
-Também não posso esquecer das pessoas que viajam por lazer.
-
-Acho que eu poderia falar um pouco sobre o Metaverso ao mencionar as pessoas que viajam por causa de shows e empregos.
+> Aqui eu posso falar sobre as pessoas que saem do Brasil para poder trabalhar para outras empresas ou morar fora.
+> Também não posso esquecer das pessoas que viajam por lazer.
+>
+> Acho que eu poderia falar um pouco sobre o Metaverso ao mencionar as pessoas que viajam por causa de shows e empregos.
 
 ## Vor und Nachteile
 
-Que tal falar sobre o meio-ambiente? Ainda não me decidi
+Uma vantagem óbvia seria a facilidade e rapidez que é viajar de avião. Principalmente em emergências ou até em viajens rápidas.
+
+> Que tal falar sobre o meio-ambiente? Ainda não me decidi
 
 ## Abschluss
 
