@@ -19,3 +19,5 @@ Heute sprechen wir über Zug und Flugreisen.
 ## Vor und Nachteile
 
 ## Abschluss
+
+Das ist alles für heute, ich danke Sie fürs Zuhören. Jetzt, können Sie Ihre frage und commentäre formulieren.
