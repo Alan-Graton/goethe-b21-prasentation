@@ -1,0 +1,2 @@
+- Talvez eu possa usar o `SCRIPT.md` como o texto da minha apresentação
+- O `README.md` poderia ser o meu texto de apoio, servindo também para ser exibido para a classe, para que eles possam ter algo visual
