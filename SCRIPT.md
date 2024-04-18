@@ -38,8 +38,6 @@ Heutzutage ist einfacher für unsere weit entfernte Familie zu treffen oder eine
 
 Mann kann sagen dass, eine Nachteile ist wie viel die flugticket kostet. Nicht zu vergessen, dass alle dinge sind sehr teure auf dem Flugplatz.
 
-Die anzahl der Personnen, die aufgrund von Homeoffice raus Brasilien reisen würden, ist gesunken.
-
 ## Abschluss
 
 Das ist alles für heute, ich danke Sie fürs Zuhören. Jetzt, können Sie Ihre frage und commentäre formulieren.
