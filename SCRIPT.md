@@ -47,10 +47,12 @@ de suas casas.
 Eine offensichtliche vorteile ist die Schenelligkeit und Leichtigkeit von Flugreisen. Am meinstens wenn wir einen Notfall haben,
 oder müssen eine Schnelle Reisen machen.
 
-> Hoje em dia
 Heutzutage ist einfacher für unsere weit entfernte Familie zu treffen oder einen besseren arbeit zu finden.
 
 Mann kann sagen dass, eine Nachteile ist wie viel die flugticket kostet. Nicht zu vergessen, dass alle dinge sind sehr teure auf dem Flugplatz.
+
+> TODO: Terminar de escrever essa parte
+Damit, ich denke. dass anzahl der Personen, die fliegen raus von Brasilien  
 
 > Essa pode ser a minha conclusão, já que eu meio que respondo à pergunta do tema...
 Dito isso, acredito que a quantidade de pessoas que viaja por necessidade de estudo ou trabalho tenha
