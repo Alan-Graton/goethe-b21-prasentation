@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] Escrever drafts para cada seção
+- [X] Escrever drafts para cada seção
 - [ ] Traduzir blocos em Português para Alemão
 
 ## Einführung
@@ -47,10 +47,15 @@ de suas casas.
 Eine offensichtliche vorteile ist die Schenelligkeit und Leichtigkeit von Flugreisen. Am meinstens wenn wir einen Notfall haben,
 oder müssen eine Schnelle Reisen machen.
 
-Hoje em dia está muito mais fácil de encontrarmos nosso familiares distantes ou até conseguir um emprego melhor.
+> Hoje em dia
+Heutzutage ist einfacher für unsere weit entfernte Familie zu treffen oder einen besseren arbeit zu finden.
 
 Podemos dizer também que uma das desvantagens são os preços das passagens, sem falar de quando é necessário comprar algo no aeroporto, onde as coisas
 são ainda mais caras.
+
+> Essa pode ser a minha conclusão, já que eu meio que respondo à pergunta do tema...
+Dito isso, acredito que a quantidade de pessoas que viaja por necessidade de estudo ou trabalho tenha
+diminuído por conta do Home Office, fazendo com que muitas pessoas não precisem viajar, a não ser que queiram sair de férias.
 
 ## Abschluss
 
