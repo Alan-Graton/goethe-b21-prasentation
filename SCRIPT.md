@@ -1,10 +1,5 @@
 # Muss mann so viel Fliegen
 
-## TODO
-
-- [X] Escrever drafts para cada seção
-- [ ] Traduzir blocos em Português para Alemão
-
 ## Einführung
 
 In meiner Präsentation geht es das Thema "Muss mann zu viel fliegen?". Zum inhalt meine präsentation:
@@ -31,10 +26,8 @@ Aber es gibt personen, dass nur für einen show reisen, und wenn das show ist fe
 Ich glaube dieses sitationen in ein paar Jahre passieren nicht, da wir heute die Metaversum und Apple Vision Pro haben.
 Es ist nur eine frage der Zeit, dass mann ein Konzert auf Metaversum, oder mit Apple Vision Pro sehen.
 
-
-
-E no caso das pessoas que viajam para fora do Brasil em busca de emprego, hoje elas podem optar pelo Home Office e trabalhar para empresas estrangeiras diretamente
-de suas casas.
+Im Fall die menschen, dass nach andere land für einen besseren arbeit finden reisen, sie können zu Hause arbeit bei Homeoffice.
+Ja klar, das hängt von der arbeit an. In meinem Fall, ich kann für eine russiche firma arbeiten, aber es gibt arbeit, die presencialle sein müssen.
 
 ## Vor und Nachteile
 
@@ -44,7 +37,7 @@ oder müssen eine Schnelle Reisen machen.
 Heutzutage ist einfacher für unsere weit entfernte Familie zu treffen oder einen besseren arbeit zu finden.
 
 Mann kann sagen dass, eine Nachteile ist wie viel die flugticket kostet. Nicht zu vergessen, dass alle dinge sind sehr teure auf dem Flugplatz.
-BOB
+
 Die anzahl der Personnen, die aufgrund von Homeoffice raus Brasilien reisen würden, ist gesunken.
 
 ## Abschluss
