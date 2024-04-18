@@ -50,8 +50,7 @@ oder müssen eine Schnelle Reisen machen.
 > Hoje em dia
 Heutzutage ist einfacher für unsere weit entfernte Familie zu treffen oder einen besseren arbeit zu finden.
 
-Podemos dizer também que uma das desvantagens são os preços das passagens, sem falar de quando é necessário comprar algo no aeroporto, onde as coisas
-são ainda mais caras.
+Mann kann sagen dass, eine Nachteile ist wie viel die flugticket kostet. Nicht zu vergessen, dass alle dinge sind sehr teure auf dem Flugplatz.
 
 > Essa pode ser a minha conclusão, já que eu meio que respondo à pergunta do tema...
 Dito isso, acredito que a quantidade de pessoas que viaja por necessidade de estudo ou trabalho tenha
