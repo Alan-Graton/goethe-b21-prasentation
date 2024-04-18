@@ -5,31 +5,21 @@
 - [ ] Escrever drafts para cada seção
 - [ ] Traduzir blocos em Português para Alemão
 
-## Das Thema
+## Einführung
 
-Hallo leute!
+In meiner Präsentation geht es das Thema "Muss mann zu viel fliegen?". Zum inhalt meine präsentation:
 
-Ich hoffe alle sind gut.
+Zuerst, möchte ich von meinen Persönliches erfahrung berichte.
+Dann sprache ich flugreisen in meinem Heimatland (aus Brasillien).
 
-Heute sprechen wir über Zug und Flugreisen, meine Persönlichen Erfahrungen, und
-erzähle Ihnen über flugreisen aus meinem Heimatland (aus Brasillien).
-
-Dann, komme ich zu die Vor und Nachteile. Nachdem, antworten wir die frage "Muss mann zu viel fliegen?".
-Und am ende, Können Sie Ihre frage und commentäre formulieren.
+AnschlieSSend, komme ich auf die Vor und Nachteile. Nachdem, antworten wir die frage "Muss mann zu viel fliegen?".
+Und zum Schluss, Können Sie Ihre frage und commentäre formulieren.
 
 ## Persönlichen Erfahrungen
 
-> TODO: Terminar de traduzir essa frase e melhorar sua estrutura e gramática...
-Leider, ich habe immer noch nie geflugt, aber meine Eltern ja. Sie hat nach Uruguai fliegen, und sie hat nicht....
+Leider, ich habe noch nie geflogen, aber meine Eltern ja. Sie sind nach Uruguay geflogen, und sie hatte sich über nichts beschwerte.
 
-> TRADUÇÃO ACIMA: 
-> Infelizmente eu nunca voei de avião, mas meus pais já viajaram para o Uruguai, e pelo o que eu me lembro, eles não reclamaram do vôo, e 
-> conseguiram aproveitar os momentos de descanso.
-
-> TODO: Revisar essa tradução...
-Ich und meine Schwester könnte nicht mit Ihnen kommen, weil wir noch ins Schule gehen mussen, und meine Eltern muss dort ein Bisschen arbeit.
-
-> TRADUÇÃO ACIMA: Eu e minha irmã não pudermos ir porque ainda estávamos em aula, e meus tinham assuntos de trabalho para tratar.
+Meine schwester und ich konnten nicht mit Ihnen mitgegangen, weil wir zur Schule gehen mussten.
 
 ## Flugreisen in meinem Heimatland
 
@@ -54,7 +44,9 @@ de suas casas.
 
 ## Vor und Nachteile
 
-Uma vantagem óbvia seria a facilidade e rapidez que é viajar de avião. Principalmente em emergências ou até em viajens rápidas.
+Eine offensichtliche vorteile ist die Schenelligkeit und Leichtigkeit von Flugreisen. Am meinstens wenn wir einen Notfall haben,
+oder müssen eine Schnelle Reisen machen.
+
 Hoje em dia está muito mais fácil de encontrarmos nosso familiares distantes ou até conseguir um emprego melhor.
 
 Podemos dizer também que uma das desvantagens são os preços das passagens, sem falar de quando é necessário comprar algo no aeroporto, onde as coisas
