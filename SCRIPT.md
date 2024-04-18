@@ -1,4 +1,4 @@
-# Muss mann so viel Fliegen
+AOA# Muss mann so viel Fliegen
 
 ## TODO
 
@@ -23,16 +23,15 @@ Meine schwester und ich konnten nicht mit Ihnen mitgegangen, weil wir zur Schule
 
 ## Flugreisen in meinem Heimatland
 
-Já faz um tempo que as pessoas estão deixando o Brasil para conseguirem uma condição melhor de vida, seja trabalhando para empresas estrangeiras ou até estudando
-em escolas (e principalmente universidades) estrangeiras.
+Es ist schon eine Weile, dass Brasiliener nach andere lamd für eine bessere Lebensbedingungen reisen. Das kann sein für einen besseren arbeit finden, order
+in ausländische Universität studieren.
 
-Outras até viajam para fora simplesmente por causa de shows que gostariam de participar, ficam um tempo e logo depois voltam.
+Aber es gibt personen, dass nur für einen show reisen, und wenn das show ist fertig sie sind zurück.
 
-Mas acho que esses cenários já mudaram bastante nesses últimos anos, principalmente por causa da pandemia.
-Com a criação do Metaverso e do crescimento do Home Office muitas dessas coisas podem ser realizadas dentro de nossas casas.
+Ich glaube dieses sitationen in ein paar Jahre passieren nicht, da wir heute die Metaversum und Apple Vision Pro haben.
+Es ist nur eine frage der Zeit, dass mann ein Konzert auf Metaversum, oder mit Apple Vision Pro sehen.
 
-Por mais que muitas pessoas gostem da experiência de estar presente em um show, muitas podem optar por participarem virtualmente, seja em lives
-ou até mesmo no metaverso.
+
 
 E no caso das pessoas que viajam para fora do Brasil em busca de emprego, hoje elas podem optar pelo Home Office e trabalhar para empresas estrangeiras diretamente
 de suas casas.
@@ -51,12 +50,7 @@ Heutzutage ist einfacher für unsere weit entfernte Familie zu treffen oder eine
 
 Mann kann sagen dass, eine Nachteile ist wie viel die flugticket kostet. Nicht zu vergessen, dass alle dinge sind sehr teure auf dem Flugplatz.
 
-> TODO: Terminar de escrever essa parte
-Damit, ich denke. dass anzahl der Personen, die fliegen raus von Brasilien  
-
-> Essa pode ser a minha conclusão, já que eu meio que respondo à pergunta do tema...
-Dito isso, acredito que a quantidade de pessoas que viaja por necessidade de estudo ou trabalho tenha
-diminuído por conta do Home Office, fazendo com que muitas pessoas não precisem viajar, a não ser que queiram sair de férias.
+Die anzahl der Personnen, die aufgrund von Homeoffice raus Brasilien reisen würden, ist gesunken.
 
 ## Abschluss
 
