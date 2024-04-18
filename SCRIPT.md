@@ -18,8 +18,8 @@ Meine schwester und ich konnten nicht mit Ihnen mitgegangen, weil wir zur Schule
 
 ## Flugreisen in meinem Heimatland
 
-Es ist schon eine Weile, dass Brasiliener nach andere lamd für eine bessere Lebensbedingungen reisen. Das kann sein für einen besseren arbeit finden, order
-in ausländische Universität studieren.
+Es ist schon eine Weile, dass Brasiliener nach andere lamd für eine bessere Lebensbedingungen reisen. Das kann für einen besseren arbeit finden, order
+in ausländische Universität studieren sein.
 
 Aber es gibt personen, dass nur für einen show reisen, und wenn das show ist fertig sie sind zurück.
 
