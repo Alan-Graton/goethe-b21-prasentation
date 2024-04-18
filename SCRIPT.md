@@ -11,10 +11,11 @@ Hallo leute!
 
 Ich hoffe alle sind gut.
 
-> TODO: Essa parte está muito direta e mal estruturada...
-Heute sprechen wir über Zug und Flugreisen, (vou apresentar...)  meine Persönlichen Erfahrungen, 
-antworten wir die frage "Muss mann zu viel fliegen".
-Wir sprachen über flugreisen in meinem Heimatland (Brasillien), und am ende, die Vor und Nachteile.
+Heute sprechen wir über Zug und Flugreisen, meine Persönlichen Erfahrungen, und
+erzähle Ihnen über flugreisen aus meinem Heimatland (aus Brasillien).
+
+Dann, komme ich zu die Vor und Nachteile. Nachdem, antworten wir die frage "Muss mann zu viel fliegen?".
+Und am ende, Können Sie Ihre frage und commentäre formulieren.
 
 ## Persönlichen Erfahrungen
 
