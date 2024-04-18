@@ -1,4 +1,4 @@
-AOA# Muss mann so viel Fliegen
+# Muss mann so viel Fliegen
 
 ## TODO
 
@@ -36,11 +36,6 @@ Es ist nur eine frage der Zeit, dass mann ein Konzert auf Metaversum, oder mit A
 E no caso das pessoas que viajam para fora do Brasil em busca de emprego, hoje elas podem optar pelo Home Office e trabalhar para empresas estrangeiras diretamente
 de suas casas.
 
-> Aqui eu posso falar sobre as pessoas que saem do Brasil para poder trabalhar para outras empresas ou morar fora.
-> Também não posso esquecer das pessoas que viajam por lazer.
->
-> Acho que eu poderia falar um pouco sobre o Metaverso ao mencionar as pessoas que viajam por causa de shows e empregos.
-
 ## Vor und Nachteile
 
 Eine offensichtliche vorteile ist die Schenelligkeit und Leichtigkeit von Flugreisen. Am meinstens wenn wir einen Notfall haben,
@@ -49,7 +44,7 @@ oder müssen eine Schnelle Reisen machen.
 Heutzutage ist einfacher für unsere weit entfernte Familie zu treffen oder einen besseren arbeit zu finden.
 
 Mann kann sagen dass, eine Nachteile ist wie viel die flugticket kostet. Nicht zu vergessen, dass alle dinge sind sehr teure auf dem Flugplatz.
-
+BOB
 Die anzahl der Personnen, die aufgrund von Homeoffice raus Brasilien reisen würden, ist gesunken.
 
 ## Abschluss
